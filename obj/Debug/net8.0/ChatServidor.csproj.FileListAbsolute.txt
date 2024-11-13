@@ -1,0 +1,68 @@
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\bin\Debug\net8.0\appsettings.json
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\bin\Debug\net8.0\ChatServidor.exe
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\bin\Debug\net8.0\ChatServidor.deps.json
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\bin\Debug\net8.0\ChatServidor.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\bin\Debug\net8.0\ChatServidor.dll
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\bin\Debug\net8.0\ChatServidor.pdb
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.csproj.AssemblyReference.cache
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\staticwebassets\msbuild.ChatServidor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\staticwebassets\msbuild.build.ChatServidor.props
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChatServidor.props
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChatServidor.props
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\scopedcss\bundle\ChatServidor.styles.css
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServ.9D62241A.Up2Date
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.dll
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\refint\ChatServidor.dll
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.pdb
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive\Documentos\E.C.-UFU\2024-1\SCTR\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ref\ChatServidor.dll
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\bin\Debug\net8.0\appsettings.json
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\bin\Debug\net8.0\ChatServidor.exe
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\bin\Debug\net8.0\ChatServidor.deps.json
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\bin\Debug\net8.0\ChatServidor.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\bin\Debug\net8.0\ChatServidor.dll
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\bin\Debug\net8.0\ChatServidor.pdb
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.csproj.AssemblyReference.cache
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\staticwebassets\msbuild.ChatServidor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\staticwebassets\msbuild.build.ChatServidor.props
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChatServidor.props
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChatServidor.props
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\scopedcss\bundle\ChatServidor.styles.css
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServ.9D62241A.Up2Date
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.dll
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\refint\ChatServidor.dll
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.pdb
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ChatServidor.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive\Documentos\Meus Projetos\trabaho_final_str\ServidorChatv1\ChatServidor\obj\Debug\net8.0\ref\ChatServidor.dll
