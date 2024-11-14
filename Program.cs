@@ -44,6 +44,6 @@ public class Program
                     });
                 });
 
-                webBuilder.UseUrls("http://localhost:5000/"); // You can specify a port
+                webBuilder.UseUrls("http://0.0.0.0:5000/");
             });
 }

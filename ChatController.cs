@@ -85,10 +85,10 @@ public class ChatController : ControllerBase
     private static async Task<List<Message>> LoadMessagesFromDatabase(int clientId, int targetClientId)
     {
         var messages = new List<Message>();
-        using var conn = new NpgsqlConnection("Host=localhost;Username=postgres;Password=Liceu2medio#2019;Database=postgres");
+        using var conn = new NpgsqlConnection("Host=localhost;Username=postgres;Password=banco123;Database=realtimechatdb");
         await conn.OpenAsync();
 
-        string query = "SELECT client_id_1, client_id_2, message, timestamp FROM RealTimeChat.Conversations " +
+        string query = "SELECT client_id_1, client_id_2, message, timestamp FROM chat.conversations " +
                        "WHERE (client_id_1 = @client1 AND client_id_2 = @client2) " +
                        "OR (client_id_1 = @client2 AND client_id_2 = @client1) ORDER BY timestamp";
 
@@ -113,10 +113,10 @@ public class ChatController : ControllerBase
 
     private static async Task StoreMessageInConversation(ClientHandler sender, string messageContent, int recipientId)
     {
-        using var conn = new NpgsqlConnection("Host=localhost;Username=postgres;Password=Liceu2medio#2019;Database=postgres");
+        using var conn = new NpgsqlConnection("Host=localhost;Username=postgres;Password=banco123;Database=realtimechatdb");
         await conn.OpenAsync();
 
-        var query = "INSERT INTO RealTimeChat.Conversations (client_id_1, client_id_2, message, timestamp) " +
+        var query = "INSERT INTO chat.conversations (client_id_1, client_id_2, message, timestamp) " +
                     "VALUES (@client1, @client2, @message, @timestamp)";
         using var cmd = new NpgsqlCommand(query, conn);
         cmd.Parameters.AddWithValue("client1", sender.ClientId);
